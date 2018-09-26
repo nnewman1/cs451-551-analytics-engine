@@ -3,7 +3,7 @@
 ## Project DUE in repository by Monday Oct 1 by 11:59pm
 
 ## Project Description
-A small application is needed to perform simple analytics on a small database of student grades. The database contains a listing of students where each students' gender, midterm grade, and final grade are stored. The analytics application needs to provide the following kinds of reports:
+A small application is needed to perform simple analytics on a small database of anoymous student grades for an anonymous course over many semesters. The database contains a listing of student tuples where each tuple indicates semester course taken, gender, midterm grade, and final grade. The analytics application needs to provide the following kinds of reports:
 
 a. Average grade over the entire database
 
