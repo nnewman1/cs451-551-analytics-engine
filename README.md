@@ -6,9 +6,13 @@
 A small application is needed to perform simple analytics on a small database of student grades. The database contains a listing of students where each students' gender, midterm grade, and final grade are stored. The analytics application needs to provide the following kinds of reports:
 
 a. Average grade over the entire database
+
 b. Average change in grade from midterm to final
+
 c. A count of each grade (E.g., #A's, #B's, etc.)
+
 d. Total number of female students
+
 e. Total number of male students
 
 The application can run in the terminal. The database file is JSON encoded and can be opened and loaded using:
@@ -35,9 +39,10 @@ with open('datafile.json') as f:
 
 4. Submit entire application project to your github repository. Repo must include your python source file, database file, unit test file, and generated documentation in html. Please use the following directory structure.
 
+```
 PROJECT_ROOT
     src/
     docs/
     data/
-
+```
 
