@@ -35,7 +35,7 @@ with open('datafile.json') as f:
 
 2. Write unit tests for your class methods using ```unittest``` package.
 
-3. Write documentation for each one of your class methods and generate the html docs with pydoc.
+3. Write documentation for each one of your class methods and generate the html docs with [pydoc](https://docs.python.org/3/library/pydoc.html). Also see [PEP manual on docstrings](https://www.python.org/dev/peps/pep-0257/).
 
 4. Submit entire application project to your github repository. Repo must include your python source file, database file, unit test file, and generated documentation in html. Please use the following directory structure.
 
